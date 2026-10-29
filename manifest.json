@@ -1,9 +1,29 @@
 {
   "base": "0.4.0",
-  "patch": null,
+  "patch": {
+    "file": "patches/patch_0.4.1.bin",
+    "size": 73596,
+    "sha256": "bcdf082a6281082d78185d5048c8772395e8ee5dc2c86ce6189fdb613bdb0a46",
+    "version": "0.4.1"
+  },
   "legacy": {},
   "page": "https://nearq.itch.io/lost-signal",
   "notes": [
+    {
+      "version": "0.4.1",
+      "items": [
+        {
+          "t": "up",
+          "es": "La Visita es ahora siempre la 3D, para todos.",
+          "en": "The Visitor is now always the 3D one, for everyone."
+        },
+        {
+          "t": "up",
+          "es": "Fuera las herramientas de prueba de la versión pública.",
+          "en": "Test tools removed from the public version."
+        }
+      ]
+    },
     {
       "version": "0.4.0",
       "items": [
