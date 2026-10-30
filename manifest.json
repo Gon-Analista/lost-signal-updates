@@ -1,6 +1,11 @@
 {
   "base": "0.4.1",
-  "patch": null,
+  "patch": {
+    "file": "patches/patch_0.4.2.bin",
+    "size": 177708,
+    "sha256": "c34c6b336a67497347fd9440a837ba9075a267cca8130f4fc2e1255b8c79fcb6",
+    "version": "0.4.2"
+  },
   "legacy": {
     "0.4.0": {
       "file": "patches/legacy_0.4.0_to_0.4.1.bin",
@@ -11,6 +16,21 @@
   },
   "page": "https://nearq.itch.io/lost-signal",
   "notes": [
+    {
+      "version": "0.4.2",
+      "items": [
+        {
+          "t": "new",
+          "es": "Las baterías se guardan en el inventario: con R pones una en la cámara cuando quieras.",
+          "en": "Batteries are stored in your inventory: press R to put one in the camera whenever you want."
+        },
+        {
+          "t": "up",
+          "es": "Algo más de baterías por la casa, según su tamaño.",
+          "en": "A few more batteries around the house, depending on its size."
+        }
+      ]
+    },
     {
       "version": "0.4.1",
       "items": [
