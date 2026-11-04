@@ -1,7 +1,26 @@
 {
   "base": "0.4.3",
   "patch": null,
-  "legacy": {},
+  "legacy": {
+    "0.4.0": {
+      "file": "patches/legacy_0.4.0_to_0.4.3.bin",
+      "size": 393612,
+      "sha256": "b924f830a241f53db2157abf722494bac6ece5aa4b6777a73b56ac9b2577f8ad",
+      "version": "0.4.3"
+    },
+    "0.4.1": {
+      "file": "patches/legacy_0.4.1_to_0.4.3.bin",
+      "size": 348444,
+      "sha256": "9a5a06ff52d47a3301bc5caff64a94b579091bebab223cdf7135026b881f9ff5",
+      "version": "0.4.3"
+    },
+    "0.4.2": {
+      "file": "patches/legacy_0.4.2_to_0.4.3.bin",
+      "size": 311884,
+      "sha256": "70644a90239cf41e5a8f0853b5ee8a15cdefe5bc6b1af3e491f35b90f3ef7b4e",
+      "version": "0.4.3"
+    }
+  },
   "page": "https://nearq.itch.io/lost-signal",
   "notes": [
     {
