@@ -1,22 +1,29 @@
 {
-  "base": "0.4.2",
+  "base": "0.4.3",
   "patch": null,
-  "legacy": {
-    "0.4.0": {
-      "file": "patches/legacy_0.4.0_to_0.4.2.bin",
-      "size": 226316,
-      "sha256": "cb3832f9593e2cefcb3ec44919bdc62ad891c788ccf04270e177b00f74674e08",
-      "version": "0.4.2"
-    },
-    "0.4.1": {
-      "file": "patches/legacy_0.4.1_to_0.4.2.bin",
-      "size": 181132,
-      "sha256": "3dd986c71cb4e2fe6b53bec62567f0140ca3c96a9a07b67ac71f1428c87d61d9",
-      "version": "0.4.2"
-    }
-  },
+  "legacy": {},
   "page": "https://nearq.itch.io/lost-signal",
   "notes": [
+    {
+      "version": "0.4.3",
+      "items": [
+        {
+          "t": "new",
+          "es": "Casas más grandes con habitaciones nuevas: despacho con pasillos de estanterías, lavadero, cuarto de juegos, cuarto de costura, despensa y más.",
+          "en": "Bigger houses with new rooms: a study with aisles of bookcases, a laundry, a playroom, a sewing room, a pantry and more."
+        },
+        {
+          "t": "up",
+          "es": "Al coger la última cinta, un aviso claro: sal por la puerta por la que entraste.",
+          "en": "When you take the last tape, a clear message: get out through the door you came in by."
+        },
+        {
+          "t": "fix",
+          "es": "Los sonidos más fuertes de la Visita, más bajos.",
+          "en": "The Visitor's loudest sounds are quieter."
+        }
+      ]
+    },
     {
       "version": "0.4.2",
       "items": [
