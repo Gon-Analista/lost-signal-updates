@@ -5,25 +5,25 @@
     "0.4.0": {
       "file": "patches/legacy_0.4.0_to_0.4.4.bin",
       "size": 1457580,
-      "sha256": "0b77ff8b296d9c5892f84f68154c44814a6e397cd21b93e2166c2764d819f125",
+      "sha256": "53be38250e44a56848e8522ac8630a86eff659ef808c2c9804c164a5dd8fa8c2",
       "version": "0.4.4"
     },
     "0.4.1": {
       "file": "patches/legacy_0.4.1_to_0.4.4.bin",
       "size": 1451276,
-      "sha256": "2c7b0339269c61666157f7e5ce1e81252a5ac4413570cc961db552e2544a7a7f",
+      "sha256": "4b1c26b78ebfd1c242c326d58c7ff0cbd729412d2bd00f67e88d2fe134a5ee1d",
       "version": "0.4.4"
     },
     "0.4.2": {
       "file": "patches/legacy_0.4.2_to_0.4.4.bin",
       "size": 1440444,
-      "sha256": "8d02b958628617d908b87a8ef77ddedf02f8f5e3956b4a0f0727403c06cb9217",
+      "sha256": "a94377c6209ad3150a5e08097b79e3bd0c2e78101984dc8fd99348069955bf7a",
       "version": "0.4.4"
     },
     "0.4.3": {
       "file": "patches/legacy_0.4.3_to_0.4.4.bin",
       "size": 1384860,
-      "sha256": "35b53ca03ca4965ed3f5ecd88243ee66b8d9f51800e64cb097648a59dba25e5d",
+      "sha256": "635668b812ff014055c755826eb55dbf97071d756ede362dc1a1615cc4424ceb",
       "version": "0.4.4"
     }
   },
@@ -41,6 +41,11 @@
           "t": "new",
           "es": "Pantalla de carga al empezar la partida (antes parecía que el juego se quedaba pegado).",
           "en": "A loading screen when the night starts (before, the game seemed to freeze)."
+        },
+        {
+          "t": "new",
+          "es": "Opción de campo de visión (FOV) en Opciones y en la pausa.",
+          "en": "Field of view (FOV) option in Options and in the pause menu."
         },
         {
           "t": "fix",
